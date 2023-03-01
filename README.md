@@ -5,7 +5,7 @@
 </p>
 <h3 align="center">Developed By Ritwik Rudra</h3>
 
- ## 📊 Sorting.Visulizer 🕹[Try it Now](https://ritwik3856.github.io/Sorting-Visualizer/)
+ ## 📊 Sorting Visulizer 🕹[Try it Now](https://ritwik3856.github.io/Sorting-Visualizer/)
 
 --------------------
 
